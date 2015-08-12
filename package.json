@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/alivelee/dotfile#readme",
   "devDependencies": {
-    "gulp-csscomb": "^3.0.6"
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-csscomb": "^3.0.6",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.2.0"
   }
 }
